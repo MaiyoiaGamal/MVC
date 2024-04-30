@@ -1,1 +1,1 @@
-make application for films and main actors in it and also halls of cinema 
+make application for films and main actors in it and also halls of cinema using MVC
